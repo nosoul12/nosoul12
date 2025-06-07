@@ -1,80 +1,83 @@
-# 👋 Hi, I'm Yash Pratap Singh — [@nosoul12](https://github.com/nosoul12)
-
-**🚀 Software Engineer | 💻 Full Stack Developer | 📱 Flutter Enthusiast | 🔧 Backend Dev (Node.js & Prisma)**  
-🎓 _B.Tech in Electrical Engineering | Builder of Real-World, Scalable Software Products_
+<h1 align="center">Hi 👋, I'm Yash Pratap Singh</h1>
+<h3 align="center">Full Stack Developer | Flutter Enthusiast | Backend Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Building+Real+Apps+%F0%9F%9A%80;Loves+Flutter+%2B+Node.js;Writing+clean+scalable+code" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a self-driven developer who turns ideas into code. Although my academic background is in **Electrical Engineering**, my true passion lies in building software products — especially in **mobile** and **backend development**.
+I'm a self-taught developer with a B.Tech in Electrical Engineering, passionate about turning real-world problems into impactful software. I love building beautiful UIs with **Flutter** and crafting powerful backends with **Node.js + Prisma**.
 
-I believe in **learning through building** and enjoy working on real-world applications that are clean, scalable, and impactful. Whether it’s a full-stack app or automating system tasks, I strive for elegant solutions and seamless user experiences.
+My development philosophy is simple: **Build, Break, Learn, Repeat** 🚀
 
----
-
-## 🔧 Tech Stack & Tools
-
-- **Languages:** Dart · JavaScript · C++ · Shell
-- **Frontend:** Flutter
-- **Backend:** Node.js · Express.js · Prisma
-- **Database:** PostgreSQL
-- **DevOps & Deployment:** Docker · Render · Railway
-- **Others:** Git · GitHub · Makefile · REST APIs
+- 🌱 Currently exploring full-stack projects, system design, and DevOps.
+- ⚡ Strong inclination toward smart systems, automation, and fintech.
+- 📲 Mobile-first thinker with a backend brain.
+- 💬 Ask me about Flutter, REST APIs, Prisma, or CLI tools.
 
 ---
 
-## 📌 Featured Projects
+## 🔧 Tech Stack
 
-### 🧿 [Watcher (Flutter App)](https://github.com/nosoul12/watcher)
-> A Netflix-style movie watchlist app using **Flutter** for the frontend and **Node.js + Prisma** for the backend. It connects with TMDb API to display trending content.
-
-### 🔗 [backendof-watchers](https://github.com/nosoul12/backendof-watchers)
-> REST API service for Watcher — includes **auth**, **watchlist management**, and **TMDb API integration**.
-
-### ⚙️ [shellScripts](https://github.com/nosoul12/shellScripts)
-> Automation-focused shell script collection for system utilities and development shortcuts.
-
-### 🛠️ [Projects](https://github.com/nosoul12/Projects)
-> A structured collection of dev experiments and CLI tools, built and managed using `Makefile`.
-
----
-
-## 💡 What Drives Me
-
-- ✨ Building elegant, responsive user interfaces
-- ⚙️ Designing efficient backend systems and APIs
-- 🧠 Exploring system architecture & deployment strategies
-- 🛠️ Creating dev tools that improve productivity
-- 📱 Bridging hardware knowledge with software applications
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
-## 🎯 Fun Facts & Hobbies
+## 📦 Featured Projects
 
-- 🐧 Love scripting and automating workflows
-- 🧩 Enjoy improving app design and UI/UX
-- ☁️ Learning about DevOps, CI/CD, and backend scaling
-- 📈 Curious about fintech, IoT, and smart systems
+### 🎬 [Watcher](https://github.com/nosoul12/watcher)
+> A Netflix-style Flutter app for managing watchlists with a Node.js + PostgreSQL backend.
+
+### 🔐 [Backend of Watcher](https://github.com/nosoul12/backendof-watchers)
+> RESTful API for Watcher app featuring auth, TMDb integration, and user management.
+
+### 🛠️ [shellScripts](https://github.com/nosoul12/shellScripts)
+> Smart and useful shell scripts to automate boring tasks and boost productivity.
+
+### 🧰 [Projects](https://github.com/nosoul12/Projects)
+> A set of modular utilities and experiments built using Makefile and CLI tools.
 
 ---
 
-## 🌐 Let's Connect!
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashpratapsingh01/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nosoul12)
-[![Gmail](https://img.shields.io/badge/-yashprataps.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashprataps.dev@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nosoul12&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
-> 💼 _Open to internships, freelance projects, or full-time roles in Flutter or Backend development._
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yashpratapsingh01/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashprataps.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nosoul12" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nosoul12&show_icons=true&theme=radical" alt="nosoul12's GitHub Stats" />
+  🚀 _Let's build something cool together!_  
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nosoul12&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
