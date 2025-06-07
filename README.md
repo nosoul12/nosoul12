@@ -1,83 +1,94 @@
 <h1 align="center">Hi 👋, I'm Yash Pratap Singh</h1>
 <h3 align="center">Full Stack Developer | Flutter Enthusiast | Backend Engineer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Building+Real+Apps+%F0%9F%9A%80;Loves+Flutter+%2B+Node.js;Writing+clean+scalable+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Flutter+Apps+%F0%9F%93%B1;Node.js+%2B+Prisma+Backend+Engineer;Loves+Clean+UIs+%26+Scalable+Code" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a self-taught developer with a B.Tech in Electrical Engineering, passionate about turning real-world problems into impactful software. I love building beautiful UIs with **Flutter** and crafting powerful backends with **Node.js + Prisma**.
+I’m a self-taught developer with a B.Tech in Electrical Engineering, focused on creating impactful, scalable software. I specialize in **mobile-first development** using **Flutter** and build robust backends with **Node.js + Prisma**.
 
-My development philosophy is simple: **Build, Break, Learn, Repeat** 🚀
-
-- 🌱 Currently exploring full-stack projects, system design, and DevOps.
-- ⚡ Strong inclination toward smart systems, automation, and fintech.
-- 📲 Mobile-first thinker with a backend brain.
-- 💬 Ask me about Flutter, REST APIs, Prisma, or CLI tools.
+- 🚀 Building full-stack apps from scratch
+- 💡 Passionate about DevOps, automation, and smart systems
+- 🛠️ Love working at the intersection of UI/UX and backend logic
 
 ---
 
-## 🔧 Tech Stack
+## 💼 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+<h3 align="left">Frameworks & Libraries:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+<h3 align="left">Tools & Platforms:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
 ---
 
-## 📦 Featured Projects
+## 🚀 Featured Projects
 
-### 🎬 [Watcher](https://github.com/nosoul12/watcher)
-> A Netflix-style Flutter app for managing watchlists with a Node.js + PostgreSQL backend.
+### 🎬 [Watcher (Flutter App)](https://github.com/nosoul12/watcher)  
+> Netflix-style movie streaming app built using Flutter + REST backend.
 
-### 🔐 [Backend of Watcher](https://github.com/nosoul12/backendof-watchers)
-> RESTful API for Watcher app featuring auth, TMDb integration, and user management.
+### 🔐 [Backend of Watcher](https://github.com/nosoul12/backendof-watchers)  
+> REST API with Node.js, Prisma, PostgreSQL, and TMDb integration.
 
-### 🛠️ [shellScripts](https://github.com/nosoul12/shellScripts)
-> Smart and useful shell scripts to automate boring tasks and boost productivity.
+### 🛠️ [ShellScripts](https://github.com/nosoul12/shellScripts)  
+> Automations and productivity scripts using Bash.
 
-### 🧰 [Projects](https://github.com/nosoul12/Projects)
-> A set of modular utilities and experiments built using Makefile and CLI tools.
+### ⚙️ [Projects](https://github.com/nosoul12/Projects)  
+> Experiments & utilities managed with Makefile, CLI, and scripting.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nosoul12&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nosoul12&show_icons=true&theme=radical" alt="nosoul12 GitHub Stats"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yashpratapsingh01/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yash-pratap-singh-8996aa248/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yashprataps.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/yash20369/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/nosoul12" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🚀 _Let's build something cool together!_  
+  💡 _Let’s build something exciting together!_  
 </p>
