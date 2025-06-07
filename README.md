@@ -49,7 +49,7 @@ I’m a self-taught developer with a B.Tech in Electrical Engineering, focused o
 ## 🚀 Featured Projects
 
 ### 🎬 [Watcher (Flutter App)](https://watcherlix.netlify.app/)  
-> Netflix-style movie streaming app built using Flutter + REST backend.
+> A personalized movie tracking and discovery app to manage your watchlist, favorites, and explore recommendations with real-time insights.
 
 ### 🔐 [Backend of Watcher](https://github.com/nosoul12/backendof-watchers)  
 > REST API with Node.js, Prisma, PostgreSQL, and TMDb integration.
